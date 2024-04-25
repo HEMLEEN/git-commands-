@@ -1,0 +1,23 @@
+# Navigate to your project directory
+cd /path/to/your/project
+
+# Initialize Git repository
+git init
+
+# Add files to the staging area
+git add .
+
+# Commit changes
+git commit -m "Initial commit"
+
+# Add a remote repository URL
+git remote add origin <remote_repository_URL>
+
+# Pull changes to the remote repository
+git pull origin master
+
+# Push changes to the remote repository
+git push -u origin master
+
+
+
